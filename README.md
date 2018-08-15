@@ -14,3 +14,6 @@
 6. Nomad "batch" jobs and resource allocation
 
 7. TODO: Pipelines for cluster deploy/converge, service, and batch jobs.
+
+
+https://dzone.com/articles/nomad-and-consul-for-microservices
